@@ -1,0 +1,4 @@
+lika
+regaia
+difference btw git and github : git is a distributed version control system while github
+is a cloud-bessed hosting service for git repositories
